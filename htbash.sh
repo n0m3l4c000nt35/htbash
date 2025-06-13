@@ -20,7 +20,7 @@ show_help() {
   echo -e "${YELLOW}Options:${RESET}"
   echo -e "  ${BLUE}-u${RESET}\t\t\tUpdate machine list from HTB API"
   echo -e "  ${BLUE}-l${RESET}\t\t\tList machines (filter with --os, --difficulty, or --free)"
-  echo -e "  ${BLUE}--os${RESET}\t<${GREEN}linux${RESET}|${GREEN}windows${RESET}> Filter by OS"
+  echo -e "  ${BLUE}--os${RESET}\t<${GREEN}linux${RESET}|${GREEN}windows${RESET}|${GREEN}android${RESET}> Filter by OS"
   echo -e "  ${BLUE}--difficulty${RESET} <${GREEN}easy${RESET}|${GREEN}medium${RESET}|${GREEN}hard${RESET}|${GREEN}insane${RESET}> Filter by difficulty"
   echo -e "  ${BLUE}--free${RESET}\t\tFilter to show only free machines"
   echo -e "  ${BLUE}--owned${RESET}\t<${GREEN}y${RESET}|${GREEN}n${RESET}>\tFilter by owned status (y=owned, n=not owned)"
@@ -367,7 +367,7 @@ difficulty_filter=""
 vpn_type=""
 owned_filter=""
 
-valid_os=("linux" "windows")
+valid_os=("linux" "windows" "android")
 valid_difficulties=("easy" "medium" "hard" "insane")
 valid_vpn_types=("comp" "lab" "pro")
 valid_owned=("y" "n")
