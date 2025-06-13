@@ -209,7 +209,7 @@ VPN no se conecta
 
 Verifica que tenés los archivos `.ovpn` en `$HOME/.config/htb/vpn/`
 
-Asegúrate de tener permisos sudo para OpenVPN
+Asegurate de tener permisos sudo para OpenVPN
 
 ```bash
 sudo visudo
