@@ -12,7 +12,7 @@
 🛠️ Setup automático de workspace con estructura de directorios  
 🔐 Gestión de conexiones VPN (lab/competitive)  
 📝 Generación automática de templates de writeups  
-🎯 Integración con Kitty terminal para sesiones organizadas  
+🎯 Integración con la terminal Kitty para sesiones organizadas  
 
 ## 🚀 Instalación
 
