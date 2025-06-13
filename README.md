@@ -143,7 +143,7 @@ htbash -p fighter --vpn lab
 
 ### 📁 Estructura del Workspace
 
-Cuando usas -p, HTBash crea automáticamente esta estructura
+Cuando usas `-p` HTBash crea automáticamente esta estructura
 
 ```bash
 $HOME/htb/machines/NombreMaquina/
