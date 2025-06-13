@@ -118,10 +118,10 @@ htbash -l --os linux --difficulty easy
 # Solo máquinas gratuitas
 htbash -l --free
 
-# Máquinas que ya posees
+# Máquinas que pwneaste
 htbash -l --owned y
 
-# Máquinas Windows difíciles que no posees
+# Máquinas Windows difíciles que no pwneaste
 htbash -l --os windows --difficulty hard --owned n
 ```
 
