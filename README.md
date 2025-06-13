@@ -199,7 +199,7 @@ VPN_CONFIG="$HOME/.config/htb/vpn"
 > [!warning]
 > Error: "Machine not found"
 
-Asegurate de actualizar la lista con htbash `-u`
+Asegurate de actualizar la lista con `htbash -u`
 
 Verifica que el nombre de la máquina sea correcto
 
