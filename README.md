@@ -71,16 +71,16 @@ Filtros (solo con -l)
 
 | Flag | Valores | Descripción |
 | - | - | - |
-| `--os linux, windows` | - | Filtra por sistema operativo |
-| `--difficulty easy, medium, hard, insane` | - | Filtra por dificultad |
+| `--os` | `linux, windows` | Filtra por sistema operativo |
+| `--difficulty` | `easy, medium, hard, insane` | Filtra por dificultad |
 | `--free` | - | Muestra solo máquinas gratuitas |
-| `--owned y, n` | - | Filtra por estado (Pwned o no) |
+| `--owned` | `y, n` | Filtra por estado (Pwned o no) |
 
 Opciones VPN (solo con -p)
 
 | Flag | Valores | Descripción |
 | - | - | - |
-| `--vpn comp, lab` | - | Selecciona configuración VPN |
+| `--vpn` | `comp, lab` | Selecciona configuración VPN |
 
 ## 💡 Ejemplos
 
