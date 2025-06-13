@@ -135,8 +135,11 @@ htbash -p Lame
 htbash -p Lame --vpn comp
 
 # Configurar con VPN de laboratorio
-htbash -p Lame --vpn lab
+htbash -p fighter --vpn lab
 ```
+
+![workspace](https://github.com/user-attachments/assets/9b66571f-2e20-454c-9dfc-2669795917b5)
+
 
 ### 📁 Estructura del Workspace
 
