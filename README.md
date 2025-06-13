@@ -98,10 +98,16 @@ htbash -u
 ```bash
 # Listar todas las máquinas
 htbash -l
-
-# Ver información de una máquina específica
-htbash -i Lame
 ```
+
+![listallmachines](https://github.com/user-attachments/assets/ebb30512-1486-4d58-ab77-668ca7347d87)
+
+```bash
+# Ver información de una máquina específica
+htbash -i fighter
+```
+
+![machineinfo](https://github.com/user-attachments/assets/cc76af1a-a796-4fd4-986c-6fe73cc855fb)
 
 Filtrado avanzado
 
