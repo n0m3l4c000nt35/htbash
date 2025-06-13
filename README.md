@@ -89,7 +89,13 @@ Opciones VPN (solo con -p)
 ```bash
 # Actualizar lista de máquinas
 htbash -u
+```
 
+![updating](https://github.com/user-attachments/assets/3a4bccd9-58a3-4a40-8304-841e168f8955)
+
+![updated](https://github.com/user-attachments/assets/ed8046ba-927a-4da4-b37e-b6c16a9f01eb)
+
+```bash
 # Listar todas las máquinas
 htbash -l
 
