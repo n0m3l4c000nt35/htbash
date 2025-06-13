@@ -157,7 +157,7 @@ HTBash crea automáticamente las siguientes pestañas en Kitty
 #### Archivos de configuración
 
 ```bash
-~/.config/htb/
+$HOME/.config/htb/
 ```
 
 ├── `htbash.conf` -------------------- # Token de API  
