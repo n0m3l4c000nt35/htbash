@@ -2,7 +2,7 @@
 
 ## 📋 Descripción
 
-> Herramienta de línea de comandos en Bash para gestionar máquinas de Hack The Box de forma eficiente. Características principales:
+> Herramienta de línea de comandos en Bash para gestionar máquinas de Hack The Box de forma eficiente
 
 ## ✨ Características
 
