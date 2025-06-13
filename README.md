@@ -42,7 +42,7 @@ Configura tu token de API
 
 ```bash
 mkdir -p $HOME/.config/htb
-echo "tu_token_aqui" > $HOME/.config/htb/htbash.conf
+echo "APP_TOKEN" > $HOME/.config/htb/htbash.conf
 ```
 
 Agregalo al PATH
