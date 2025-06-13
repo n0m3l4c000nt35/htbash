@@ -58,6 +58,8 @@ Sintaxis
 htbash [OPTIONS]
 ```
 
+![helppanel](https://github.com/user-attachments/assets/ff59fe38-9a57-4c55-bc24-a94913460e47)
+
 Opciones principales
 
 | Flag | Descripción |
