@@ -28,7 +28,7 @@
 Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/htbash.git
+git clone https://github.com/n0m3l4c000nt35/htbash.git
 cd htbash
 ```
 
